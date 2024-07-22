@@ -33,4 +33,5 @@ This code implements a product recommendation system for luxury apparel using te
 7. Visualization and Display:
    - Uses IPython's HTML display capabilities to show results in a formatted table
    - Includes hyperlinks to Google searches for each recommended product
+
 This code essentially creates a system where a user can input a description of a luxury apparel item, and the system will return the top 5 most similar products from its database, based on the textual similarity of the descriptions. It combines techniques from data preprocessing, text analysis (TF-IDF), and similarity measures (cosine similarity) to achieve this recommendation functionality.
